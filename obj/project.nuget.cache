@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/fpR/8Av3N3u3/8Sv8HgZ4OHgU6UVU3n0VSVvYEZcaSuAZ7Kpsnhhd25FCcTZW4t3RvyUULYU8VK6HjMVEmng==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Windows\\Desktop\\Faculdade\\DIO\\GFT\\dotnetapi\\api\\api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore (>= 6.2.3)' para 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
